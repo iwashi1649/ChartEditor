@@ -1,5 +1,7 @@
 # ChartEditor
 しつび音ゲー譜面作成補助ツール  
+Windows→このリポジトリをクローン  
+Mac→[こちら](https://drive.google.com/drive/folders/1h4NkWfYNPcbn56fEwqFK5xSdvgPGSJMz?usp=sharing)  
 .chartは手入力で編集することを想定して開発されましたが、それでもやはり全部手入力で作るのは大変なので、譜面作成を補助するツールを作りました。  
 .chartの仕様については[こちら](./chart.md)  
 編集画面では1小節分の譜面データを編集することができます。
