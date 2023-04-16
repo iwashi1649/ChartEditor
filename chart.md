@@ -47,3 +47,58 @@
     - 以後のノーツのスクロールにかかる時間を変えます。基準値は1です。
 - #BPMCHANGE\[数字\] 
     - 曲のBPMを入力した数字に変えます、小数可。
+
+
+## 譜面サンプル
+以下は.chartファイルのサンプルです。
+```
+ID:example
+TITLE:EXAMPLE SONG
+COMPOSE:iwashi
+ILLUST:iwashi
+CHARTEDIT:iwashi
+BPM:120
+SONGVOL:80
+OFFSET:-0.64
+BEAT:4
+WAVE:Example/example.wav
+
+DIFFICULTY:EASY,3
+#START
+1:1
+0
+1:1
+0
+1:1
+0
+1:1
+1:1
+#END
+
+DIFFICULTY:NOPRMAL,6
+#START
+1:1,0,1:3,1:2,0,1:4,1:3,1:2
+1:1,1:1,1:1,1:1
+0
+0
+0
+0
+0
+0
+#END
+
+DIFFICULTY:HARD,9
+#START
+1:1,0,1:3,1:2,0,1:4,1:3,1:2
+1:3,1:1,1:3,1:8,0,1:5,0,0
+1:4,0,1:2,1:3,0,1:1,1:3
+#SCROLLSPEED 0.33
+1:1&1:4,1:1&1:4,1:1&1:4,1:1&1:4,0,1:8,0,0
+#SCROLLSPEED 1
+1:1,0,1:3,1:2,0,1:4,1:3,1:2
+1:3,1:1,1:3,1:8,0,1:5,0,0
+3{4}:1&1:4,0,1:2,1:3,0,1:2,1:3,1:4
+#SCROLLSPEED 2
+0,1:1,1:4,1:8,1:5,0,0,0
+#END
+```
