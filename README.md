@@ -11,7 +11,7 @@ Mac→[こちら](https://drive.google.com/drive/folders/1h4NkWfYNPcbn56fEwqFK5x
     - 譜面を識別するためのID。任意の英数字文字列。
 - オフセット	
     - 譜面の再生開始に対して音源の再生開始を遅らせる秒数。負の数も指定できる。
--LPB		
+- LPB		
     - 1小節を等分する数。
 - BPM		
     - 1分間の拍数。
