@@ -30,6 +30,7 @@ Mac→[こちら](https://drive.google.com/drive/folders/1zv9JD1nJiAAYpeTOMu8oAf
 ## 操作
 - LPBの変更			
     - LPBの入力欄に直接入力 / 入力欄の上のボタンで増減 / 上下キーで増減 / Shift + マウスホイール
+    - LPBを変更すると編集中の小節情報が破棄されるのでご注意ください。
 - BPMの変更			
     - 「高度な編集」より「BPMの変更」にチェックを入れ、BPM入力欄に入力。途中の小節からの変更も可能。小数の指定も可能
 - 拍子の変更			
