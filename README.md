@@ -1,5 +1,5 @@
-# ChartEditor
-しつび音ゲー譜面作成補助ツール  
+# HarcaChartEditor
+Harca用譜面作成補助ツール  
 
 ## インストール方法
 Windows→このリポジトリをクローン/ダウンロード  
