@@ -1,14 +1,14 @@
 # HarcaChartEditor
 Harca用譜面作成補助ツール  
-
-## インストール方法
-Windows→このリポジトリをクローン/ダウンロード  
-Mac→[こちら](https://drive.google.com/drive/folders/1zv9JD1nJiAAYpeTOMu8oAf8iTCHX7h3Z?usp=sharing)  
-セキュリティで弾かれるかもしれないので、その場合は実行許可を与えてください。  
 .chartはテキストエディタを用いて手入力で編集することを想定して開発されましたが、それでもやはり全部手入力で作るのは大変なので、譜面作成を補助するツールを作りました。  
 テキストエディタと本ツールを併用して譜面作成を行うことを推奨します。  
 .chartの仕様については[こちら](./chart.md)  
 編集画面では1小節分の譜面データを編集することができます。
+
+## インストール方法
+Windows→このリポジトリをクローン/ダウンロード→HarcaChartEditor.exeを実行  
+Mac→[こちら](https://drive.google.com/drive/folders/1fxqQUnuS9dFQRFZV3ZJJIl64r6vjbGQz?usp=sharing)→.appファイルを実行  
+セキュリティで弾かれるかもしれないので、その場合は実行許可を与えてください。  
 
 ## 用語など
 - ID
