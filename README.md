@@ -7,7 +7,7 @@ Harca用譜面作成補助ツール
 
 ## インストール方法
 Windows→このリポジトリをクローン/ダウンロード→HarcaChartEditor.exeを実行  
-Mac→[こちら](https://drive.google.com/drive/folders/1fxqQUnuS9dFQRFZV3ZJJIl64r6vjbGQz?usp=sharing)をダウンロードして.appを実行
+Mac→[こちら](https://drive.google.com/drive/folders/1fxqQUnuS9dFQRFZV3ZJJIl64r6vjbGQz?usp=sharing)をダウンロードして.appを実行  
 セキュリティで弾かれるかもしれないので、その場合は実行許可を与えてください。  
 
 ## 用語など
